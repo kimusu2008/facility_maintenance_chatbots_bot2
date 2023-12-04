@@ -8,7 +8,7 @@ Work Order Planner: Facility Manager's Bot
 - Install requirements: pip install -r requirements.txt
 
 2. Sign up for an OpenAI API key and Azure OpenAI API key
-- paste them into the codes:
+- Paste them into the codes blocks below (In app_bot2_v.py and flask_llm_mpt.py)
 - Feel free to tweak the OpenAI model and parameters in app_bot1_v.py to experiment with different conversational AI engines.
 - In app_bot2_v.py
 ~~~~
